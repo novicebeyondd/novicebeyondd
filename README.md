@@ -9,9 +9,9 @@
 ###
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&perline=5">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&perline=3">
   <br>
-  <img src="https://skillicons.dev/icons?i=cloudflare,photoshop,android,linux,django,flask,nodejs,mysqlite,docker,mongodb&perline=5">
+  <img src="https://skillicons.dev/icons?i=cloudflare,photoshop,android,linux,django,flask,nodejs,mysqlite,docker,mongodb&perline=3">
 </p>
 
 ###
