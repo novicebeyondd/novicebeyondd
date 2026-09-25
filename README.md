@@ -24,36 +24,7 @@
 
 ###
 
-<table>
-  <tr>
-    <td bgcolor="#8a008a"></td>
-    <td bgcolor="#aa00aa"></td>
-    <td bgcolor="#cc00cc"></td>
-    <td bgcolor="#ee00ee"></td>
-    <td bgcolor="#0e1117"></td>
-    <td bgcolor="#0e1117"></td>
-    <td bgcolor="#0e1117"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-  </tr>
-  <tr>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-    <td bgcolor="#161b22"></td>
-  </tr>
-</table>
-
+![Your GitHub Contributions](https://herokuapp.com)
 
 
 
