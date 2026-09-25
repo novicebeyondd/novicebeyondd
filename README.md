@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Discord Presence Card -->
+<p align="center">
+  <a href="https://discord.com/users/1548297481392095238">
+    <img src="https://lanyard.cnrad.dev/api/1548297481392095238?theme=dark&borderRadius=15px&animated=true&hideDiscrim=true" width="600">
+  </a>
+</p>
 
-<!--
-**novicebeyondd/novicebeyondd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated blue text -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00A8FF&center=true&vCenter=true&width=750&lines=I+build+self-bots+and+nukers+and+many+other+tools">
+</p>
 
-Here are some ideas to get you started:
+<!-- Languages & Tools -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&perline=5">
+  <br>
+  <img src="https://skillicons.dev/icons?i=cloudflare,photoshop,android,linux&perline=5">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Discord profile -->
+<p align="center">
+  <a href="https://discord.com/users/1548297481392095238">
+    <img src="https://img.shields.io/badge/Discord-1548297481392095238-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
+
