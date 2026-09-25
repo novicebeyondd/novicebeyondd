@@ -1,6 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1548297481392095238?theme=dark&animated=true&hideDiscrim=true)](https://discord.com/users/1548297481392095238)
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1548297481392095238?theme=dark&bg=1A1C1F&borderRadius=25px&idleMessage=Vamp&hideStatus=true)](https://discord.com/users/1548297481392095238)
 
 <!-- Animated blue text -->
 <p align="center">
