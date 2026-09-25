@@ -8,13 +8,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&perline=5">
   <br>
-  <img src="https://skillicons.dev/icons?i=cloudflare,photoshop,android,linux,django,flask&perline=5">
+  <img src="https://skillicons.dev/icons?i=cloudflare,photoshop,android,linux,django,flask,nodejs,mysqlite,docker,mongodb&perline=5">
 </p>
 
-<!-- Discord profile -->
-<p align="center">
-  <a href="https://discord.com/users/1548297481392095238">
-    <img src="https://img.shields.io/badge/Discord-1548297481392095238-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+
+<div align="left">
+  <a href="https://discord.gg/resurgence" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-</p>
+</div>
+
 
