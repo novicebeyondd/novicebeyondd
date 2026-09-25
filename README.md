@@ -24,7 +24,9 @@
 
 ###
 
-![Your GitHub Contributions](https://herokuapp.com)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NotYourSyntax/NotYourSyntax/output/snake.svg" alt="Snake animation" />
 
 
 
