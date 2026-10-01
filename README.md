@@ -2,6 +2,7 @@
   <img src="https://lanyard.kyrie25.dev/api/1548297481392095238?bg=1a1b26&waveColor=7aa2f7&waveSpotifyColor=9ece6a&gradient=7aa2f7&borderRadius=25px" alt="Discord Presence" />
 
 </a>
+
 ###
 
 <p align="center">
