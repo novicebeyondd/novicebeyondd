@@ -1,5 +1,7 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1548297481392095238?theme=dark&bg=1A1C1F&borderRadius=25px&idleMessage=always&hideStatus=true)](https://discord.com/users/1548297481392095238)
+<a href="https://discord.com/users/11548297481392095238">
+  <img src="https://lanyard.kyrie25.dev/api/1548297481392095238?bg=1a1b26&waveColor=7aa2f7&waveSpotifyColor=9ece6a&gradient=7aa2f7&borderRadius=25px" alt="Discord Presence" />
 
+</a>
 ###
 
 <p align="center">
