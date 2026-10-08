@@ -14,7 +14,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,lua,js,html,css,ruby,cpp&perline=7">
   <br>
-  <img src="https://skillicons.dev/icons?i= cloudflare,photoshop,android,linux,django,flask,nodejs,mysqlite,docker,mongodb&perline=7">
+  <br>
+  <img src="https://skillicons.dev/icons?i= cloudflare,linux,django,flask,nodejs,mysqlite,docker,mongodb&perline=7">
 </p>
 
 ###
