@@ -13,11 +13,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,lua,js,html,css,ruby,cpp&perline=7">
-  <br>
-  <br>
-  <img src="https://skillicons.dev/icons?i= cloudflare,linux,django,flask,nodejs,mysqlite,docker,mongodb&perline=7">
-</p>
-
+  
 ###
 
 <div align="left">
